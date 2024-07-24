@@ -1,5 +1,5 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "@context": "https://iiif.io/api/presentation/3/context.json",
     "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/manifest.json",
     "type": "Manifest",
     "label": {
@@ -94,7 +94,7 @@
                                     {
                                         "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509",
                                         "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                        "profile": "https://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
