@@ -1,5 +1,5 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "@context": "https://iiif.io/api/presentation/3/context.json",
     "id": "https://shawngraham.github.io/tropy-test/index.json",
     "type": "Collection",
     "label": {
