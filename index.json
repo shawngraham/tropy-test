@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://shawngraham.github.io/tropy-test/index.json",
     "type": "Collection",
     "label": {
@@ -9,29 +9,29 @@
     },
     "thumbnail": [
         {
-            "id": "https://shawngraham.github.io/tropy-test/wim4zbyv0pp-muuve3zp3/981363859b0ab0e3dbbdb312b6e4b13f/full/300,235/0/default.jpg",
+            "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/254,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "height": 235,
-            "width": 300
+            "height": 300,
+            "width": 254
         }
     ],
     "items": [
-        {
-            "id": "https://shawngraham.github.io/tropy-test/wim4zbyv0pp-muuve3zp3/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Screenshot 2024-07-15 at 3.48.05 PM"
-                ]
-            }
-        },
         {
             "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
                     "Screenshot 2024-07-15 at 3.44.50 PM"
+                ]
+            }
+        },
+        {
+            "id": "https://shawngraham.github.io/tropy-test/wim4zbyv0pp-muuve3zp3/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Screenshot 2024-07-15 at 3.48.05 PM"
                 ]
             }
         }
