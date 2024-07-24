@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/manifest.json",
+    "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -47,7 +47,7 @@
     ],
     "thumbnail": [
         {
-            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/254,300/0/default.jpg",
+            "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/254,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -56,7 +56,7 @@
     ],
     "items": [
         {
-            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1",
+            "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1",
             "type": "Canvas",
             "height": 712,
             "width": 602,
@@ -67,7 +67,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/254,300/0/default.jpg",
+                    "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/254,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -76,23 +76,23 @@
             ],
             "items": [
                 {
-                    "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-1",
+                    "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-1/anno-1",
+                            "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1",
+                            "target": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1",
                             "body": {
-                                "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/602,712/0/default.jpg",
+                                "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/602,712/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 712,
                                 "width": 602,
                                 "service": [
                                     {
-                                        "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509",
+                                        "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -104,14 +104,14 @@
             ],
             "annotations": [
                 {
-                    "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-2",
+                    "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-2",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-2/anno-1",
+                            "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1",
+                            "target": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
@@ -119,10 +119,10 @@
                             }
                         },
                         {
-                            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-2/anno-2",
+                            "id": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1#xywh=93,402,156,156",
+                            "target": "https://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1#xywh=93,402,156,156",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
