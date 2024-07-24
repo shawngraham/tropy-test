@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://shawngraham.github.io/tropy-test/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "My IIIF Collection"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "http://shawngraham.github.io/tropy-test/wim4zbyv0pp-muuve3zp3/981363859b0ab0e3dbbdb312b6e4b13f/full/300,235/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 235,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "http://shawngraham.github.io/tropy-test/wim4zbyv0pp-muuve3zp3/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Screenshot 2024-07-15 at 3.48.05 PM"
+                ]
+            }
+        },
+        {
+            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Screenshot 2024-07-15 at 3.44.50 PM"
+                ]
+            }
+        }
+    ]
+}

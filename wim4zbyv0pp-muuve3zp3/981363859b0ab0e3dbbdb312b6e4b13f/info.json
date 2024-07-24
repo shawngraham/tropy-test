@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "http://shawngraham.github.io/tropy-test/wim4zbyv0pp-muuve3zp3/981363859b0ab0e3dbbdb312b6e4b13f",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 2052,
+  "height": 1604,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 235
+    },
+    {
+      "width": 2000,
+      "height": 1563
+    }
+  ]
+}

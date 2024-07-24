@@ -1,0 +1,137 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Screenshot 2024-07-15 at 3.44.50 PM"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Shawn Graham"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2024"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Screenshot"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/254,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 254
+        }
+    ],
+    "items": [
+        {
+            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1",
+            "type": "Canvas",
+            "height": 712,
+            "width": 602,
+            "label": {
+                "none": [
+                    "Screenshot 2024-07-15 at 3.44.50 PM"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/254,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 254
+                }
+            ],
+            "items": [
+                {
+                    "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1",
+                            "body": {
+                                "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509/full/602,712/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 712,
+                                "width": 602,
+                                "service": [
+                                    {
+                                        "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/7944dddc768f0af1c5f7f390e60c1509",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>4 bottles of booze</p>"
+                            }
+                        },
+                        {
+                            "id": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "http://shawngraham.github.io/tropy-test/wji4akerefdihgtasfzn6/canvas/1#xywh=93,402,156,156",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Apple logo</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
