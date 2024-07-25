@@ -1,9 +1,9 @@
 {
-  "@context": "https://iiif.io/api/image/3/context.json",
+  "@context": "http://iiif.io/api/image/3/context.json",
   "id": "https://shawngraham.github.io/tropy-test/wim4zbyv0pp-muuve3zp3/981363859b0ab0e3dbbdb312b6e4b13f",
   "type": "ImageService3",
   "profile": "level0",
-  "protocol": "https://iiif.io/api/image",
+  "protocol": "http://iiif.io/api/image",
   "tiles": [
     {
       "scaleFactors": [
